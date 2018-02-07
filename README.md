@@ -4,7 +4,7 @@ This is 4th project for Udacity’s VR Nanodegree. This project is to learn and 
 
 ## Puzzler: Catching up the sequence pattern of Dungeon Orbs
 This is a Puzzler that is a sort of the children’s game Simon Says. The player should figure out the sequence pattern of Dungeon Orbs’ blinking in order to escape from the dungeon.
-![youtubelink](https://github.com/himax25/Puzzler_VR_project/blob/master/VR_PIC8.JPG) **(https://youtu.be/PBp2jI9z7b4)** Click the URL to see the recording video.
+![youtubelink](https://github.com/himax25/Puzzler_VR_project/blob/master/VR_PIC8.JPG) **Click the URL to see the recording video.**(https://youtu.be/PBp2jI9z7b4)
 The player could play the Puzzle game again after exiting the dungeon by pressing Restart button.
  
 # Design and Development
