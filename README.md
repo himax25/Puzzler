@@ -2,7 +2,7 @@
 This is 4th project for Udacity’s VR Nanodegree. This project is to learn and demonstrate how a VR developer to design a mobile game and focusing on the user experience by Puzzler Starter Project. To achieve such goal, having applied user's feedback for UI design frequently based on Lean development methodology.
 ![screenshut](https://github.com/himax25/Puzzler_VR_project/blob/master/VR_PIC1.png)
 
-## Puzzler: Catching up the sequence pattern of Dungeon Orbs
+## Puzzler: Catching up the pattern of the sequence with Dungeon Orbs
 This is a Puzzler that is a sort of the children’s game Simon Says. The player should figure out the sequence pattern of Dungeon Orbs’ blinking in order to escape from the dungeon.
 ![youtubelink](https://github.com/himax25/Puzzler_VR_project/blob/master/VR_PIC8.JPG) **Click the URL to see the recording video.**(https://youtu.be/PBp2jI9z7b4)
 The player could play the Puzzle game again after exiting the dungeon by pressing Restart button.
@@ -11,7 +11,7 @@ The player could play the Puzzle game again after exiting the dungeon by pressin
 ## Persona: a typical user
 I assume the target audience of this puzzler VR user, as the followings:
 * **Hilary Lee**, 11, a Girl, Elementary school student.
-* Hilary is very excited to play a mobile game nowadays. 
+> Hilary is very excited to play a mobile game nowadays. 
   Especially she loves to play VR game. However, she sometimes loses focusing on a given topic in her school life. 
   I hope she could enhance her focusing by this Puzzler game training.
    
