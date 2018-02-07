@@ -62,6 +62,12 @@ There is a Restarting UI window to pop up in order to reload the game with a new
 My Puzzler VR game is oriented Android Cardboard as VR design perspective. Please be aware of that there is some dependence of Android SDK with a particular version of Unity such as a requirement of supporting **GvrPointerPhysicsRaycaster** with **GvrPointerInputModule** in Unity. 
 According to the final user testing, the tester enjoyed the VR puzzler game. However, she told me that it will be more excited Puzzler game if there is a time bomb to add on such Puzzle game.
 
+## Next steps
+Base on the feedback from the test, I will develop Puzzler v2.0 with the following features:
+* Adding the Time Bomb on Puzzler game.
+* Limited the number of tries as 3 times per play.
+* Displaying the time score with tries.
+
 ## **Author of this coding**
 * Hyo Lee, linkedin [here](https://www.linkedin.com/in/hyo-max-lee-61241b13/)
 * February 7, 2018.
